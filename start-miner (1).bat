@@ -1,0 +1,1 @@
+EthDcrMiner64.exe -epool stratum+tcp://eu-et.cominers.org:undefined -ewal 0xB0522C46770D0DDD16670F7C42977abe378AE480 -epsw x -eworker  -allcoins 1
